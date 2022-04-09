@@ -13,7 +13,22 @@ The project will deliver these and votes counts and percentages of each candidat
 
 ## Results
 
-- The results the elections as calculated by our project were as followss as saved in the output file:
+- The results of the elections as calculated by our project were as follows:
+    - Total Votes: 369,711
+    - County Votes:
+      - Jefferson: 10.5% (38,855)
+      - Denver: 82.8% (306,055)
+      - Arapahoe: 6.7% (24,801)
+    - Largest County Turnout: Denver
+    - Votes per candidate:
+      - Charles Casper Stockham: 23.0% (85,213)
+      - Diana DeGette: 73.8% (272,892)
+      - Raymon Anthony Doane: 3.1% (11,606)
+    - Election Winner: Diana DeGette
+      - His Winning Vote Count: 272,892
+      - His Winning Percentage: 73.8% 
+  
+- This information as saved in the output file:
 
   - ![IMAGE_DESCRIPTION](/Resources/results-file.png)
 - Same output was optained live on the computer terminal running the script
